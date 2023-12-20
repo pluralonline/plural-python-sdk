@@ -3,6 +3,10 @@
 This SDK offers simple to use api for integrating PineLabs api in your python applications. It provide several easy
 methods for creating, fetching orders and calculate EMIs and verify hash.
 
+A step-by-step guide on the usage is available here:[ https://www.youtube.com/watch?v=nW4Axoz292c&ab_channel=PluralbyPineLabs](https://youtu.be/Dd3sFpZ8Kco?si=uNP-CVwlIj6nLPj8)
+
+Sample app: https://github.com/pluralonline/plural-python-sdk-sampleapp
+
 ## Installation
 
 In order to use this SDK locally from a folder you'll need to copy the `sdk` folder in your project and import it in your python file.
